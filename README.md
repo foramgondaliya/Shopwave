@@ -38,11 +38,12 @@ Descriptions cover key features, specifications, dimensions, materials, etc.
 
 https://github.com/foramgondaliya/Shopwave/assets/149999919/897f1368-9369-41ca-9a65-3f53d61e3258
 
-![Screenshot_20240329_101003](https://github.com/foramgondaliya/Shopwave/assets/149999919/b666b11d-76ac-43c9-b715-bdadcce0ff20)
-![Screenshot_20240329_100939](https://github.com/foramgondaliya/Shopwave/assets/149999919/d8fd868e-8b6b-4df0-a81e-d392477fbd9c)
-![Screenshot_20240329_101104](https://github.com/foramgondaliya/Shopwave/assets/149999919/751993ff-ef47-47bd-bc7a-e2c09b917814)
-![Screenshot_20240329_101116](https://github.com/foramgondaliya/Shopwave/assets/149999919/97b127c4-f4f1-4968-bab5-cf9682944c14)
-![Screenshot_20240329_101104](https://github.com/foramgondaliya/Shopwave/assets/149999919/963d4338-8502-4db5-9f34-fe4ee5acf924)
+![Screenshot_20240329_100939](https://github.com/foramgondaliya/Shopwave/assets/149999919/df435224-0b27-4183-acbe-b60c089105ee)
+![Screenshot_20240329_101003](https://github.com/foramgondaliya/Shopwave/assets/149999919/4aa11550-1262-489d-beb7-3a00d3820f2f)
+![Screenshot_20240329_101104](https://github.com/foramgondaliya/Shopwave/assets/149999919/d869b892-0712-4e5f-9256-534582a45664)
+![Screenshot_20240329_101116](https://github.com/foramgondaliya/Shopwave/assets/149999919/6e64a101-8d1c-4e6b-8259-9d0774cf56b3)
+![Screenshot_20240329_103439](https://github.com/foramgondaliya/Shopwave/assets/149999919/ad429190-4866-4661-831f-74d13ff992f5)
+
 
 
 
