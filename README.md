@@ -38,12 +38,5 @@ Descriptions cover key features, specifications, dimensions, materials, etc.
 
 https://github.com/foramgondaliya/Shopwave/assets/149999919/897f1368-9369-41ca-9a65-3f53d61e3258
 
-![Screenshot_20240329_100939](https://github.com/foramgondaliya/Shopwave/assets/149999919/df435224-0b27-4183-acbe-b60c089105ee)
-![Screenshot_20240329_101003](https://github.com/foramgondaliya/Shopwave/assets/149999919/4aa11550-1262-489d-beb7-3a00d3820f2f)
-![Screenshot_20240329_101104](https://github.com/foramgondaliya/Shopwave/assets/149999919/d869b892-0712-4e5f-9256-534582a45664)
-![Screenshot_20240329_101116](https://github.com/foramgondaliya/Shopwave/assets/149999919/6e64a101-8d1c-4e6b-8259-9d0774cf56b3)
-![Screenshot_20240329_103439](https://github.com/foramgondaliya/Shopwave/assets/149999919/ad429190-4866-4661-831f-74d13ff992f5)
-
-
 
 
