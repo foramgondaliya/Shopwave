@@ -41,5 +41,4 @@ https://github.com/foramgondaliya/Shopwave/assets/149999919/897f1368-9369-41ca-9
 ![Screenshot_20240401_090812](https://github.com/foramgondaliya/Shopwave/assets/149999919/7c61de8c-f577-4717-85af-886d77bcf5c9)
 ![Screenshot_20240329_101038](https://github.com/foramgondaliya/Shopwave/assets/149999919/1105f3ac-4ff6-4c31-a22b-80ef70952483)
 ![Screenshot_20240329_101104](https://github.com/foramgondaliya/Shopwave/assets/149999919/dc8bee20-7d9f-453d-ab51-f2ce7d282ef6)
-![Screenshot_20240329_103439](https://github.com/foramgondaliya/Shopwave/assets/149999919/2cfcc4d7-a099-408f-9119-01f11345d61d)
-
+![Screenshot_20240329_103439](https://github.com/foramgondaliya/Shopwave/assets/149999919/ce07ecd1-4e1e-4e9f-9e87-4b53fa43316d)
